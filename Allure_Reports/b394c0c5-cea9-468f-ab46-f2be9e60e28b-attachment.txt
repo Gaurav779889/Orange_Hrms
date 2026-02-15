@@ -1,9 +1,0 @@
-[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The chromedriver version (143.0.7499.169) detected in PATH at C:\Users\Gaurav Sakharkar\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.134); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:60 Starting Test: Verify OrangeHRM Login Functionality
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:61 Navigating to OrangeHRM Login Page
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:63 OrangeHRM Login Page Loaded
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:65 Entering Username and Password
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:60 Starting Test: Verify OrangeHRM Login Functionality
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:61 Navigating to OrangeHRM Login Page
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:63 OrangeHRM Login Page Loaded
-[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:65 Entering Username and Password
