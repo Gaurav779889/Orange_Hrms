@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:31 Starting Test: Verify OrangeHRM Login Page URL
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:32 Navigating to OrangeHRM Login Page
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:34 OrangeHRM Login Page Loaded
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:36 OrangeHRM Login Page URL Verified
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:38 Screenshot of Passed Test Saved
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:48 test_verify_url_001 test Completed
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:49 =============================================================
