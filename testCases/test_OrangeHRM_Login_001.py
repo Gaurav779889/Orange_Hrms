@@ -3,8 +3,11 @@ import allure
 
 from Utilities.logger import Logger_class
 from pageObjects.Login_Page import Login_Page_Class
+<<<<<<< HEAD
 from pageObjects.PIM_Page import PIM_Page_Class
 import os
+=======
+>>>>>>> 0d90d321fa968defed606e43122b8377e9590444
 from Utilities.readConfig import ReadConfig
 @pytest.mark.usefixtures("driver_setup")
 class  Test_OrangeHRM_Login_001:
@@ -86,6 +89,7 @@ class  Test_OrangeHRM_Login_001:
         self.log.info("test_OrangeHRM_Login_002 test Completed")
         self.log.info("=============================================================")
 
+<<<<<<< HEAD
     def test_Add_Employee_With_Photo_003(self):
         self.log.info("Starting Test: Add Employee With Profile Photo")
 
@@ -143,4 +147,6 @@ class  Test_OrangeHRM_Login_001:
             self.log.error("Login Failed - Cannot Add Employee")
             assert False
 
+=======
+>>>>>>> 0d90d321fa968defed606e43122b8377e9590444
 # pytest -v -n=auto --html=Html_Reports\OrangeHRM_Login.html --alluredir=Allure_Reports --browser chrome

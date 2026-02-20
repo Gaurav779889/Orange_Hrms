@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/orange 7feb.iml" filepath="$PROJECT_DIR$/.idea/orange 7feb.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/pytest pratice.iml" filepath="$PROJECT_DIR$/.idea/pytest pratice.iml" />
+>>>>>>> 0d90d321fa968defed606e43122b8377e9590444
     </modules>
   </component>
 </project>

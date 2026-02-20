@@ -10,7 +10,11 @@ class  Test_OrangeHRM_Login_DDT_002:
     driver = None
     login_url = ReadConfig.get_login_url()
     log = Logger_class.get_logger()
+<<<<<<< HEAD
     excel_file = ".\\Test_Data\\OrangeHRM_Test_Data.xlsx"
+=======
+    excel_file = ".\\TestData\\OrangeHRM_Test_Data.xlsx"
+>>>>>>> 0d90d321fa968defed606e43122b8377e9590444
     sheet = "Sheet1"
 
     def test_OrangeHRM_Login_DDT_003(self):
